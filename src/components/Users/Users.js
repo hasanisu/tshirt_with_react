@@ -1,4 +1,5 @@
 import React from 'react';
+import UsersNav from '../userComponents/UsersNav/UsersNav';
 
 const Users = () => {
     return (
